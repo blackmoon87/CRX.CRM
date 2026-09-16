@@ -1,6 +1,12 @@
 # CRX CRM — Enterprise Multi-Tenant CRM Platform
 
+[![Live Demo & Landing Page](https://img.shields.io/badge/Live_Landing_Page-GitHub_Pages-6366f1?style=for-the-badge&logo=github)](https://blackmoon87.github.io/CRX.CRM/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-06b6d4?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Memory Footprint](https://img.shields.io/badge/RAM_Footprint-2.0_MB-10b981?style=for-the-badge)](https://blackmoon87.github.io/CRX.CRM/#benchmarks)
+
 > **CRX CRM** is a high-performance, enterprise-grade Customer Relationship Management platform built on the **Spartan Lightweight PHP 8.2+ MVC Architecture**. Designed for multi-tenant organizations requiring speed, granular RBAC security, CPQ proposal automation, and AI agent integration.
+>
+> 🌐 **Official Live Landing Page**: [https://blackmoon87.github.io/CRX.CRM/](https://blackmoon87.github.io/CRX.CRM/)
 
 ---
 
