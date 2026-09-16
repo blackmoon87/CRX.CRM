@@ -3,6 +3,7 @@
     "description": "CRX — Agent-Native Enterprise CRM built 100% on Spartan MVC.",
     "type": "project",
     "license": "MIT",
+    "homepage": "https://blackmoon87.github.io/CRX.CRM/",
     "require": {
         "php": ">=8.1",
         "phpmailer/phpmailer": "^7.1"
