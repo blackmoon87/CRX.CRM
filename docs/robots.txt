@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blackmoon87.github.io/CRX.CRM/sitemap.xml
