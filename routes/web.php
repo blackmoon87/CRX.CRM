@@ -24,6 +24,14 @@ $app->router->get('/', function() use ($app) {
     }
 });
 
+$app->router->get('/landing', function() use ($app) {
+    $filePath = dirname(__DIR__) . '/docs/index.html';
+    if (file_exists($filePath)) {
+        return file_get_contents($filePath);
+    }
+    $app->response->redirect('/login');
+});
+
 $app->router->get('/login', [AuthController::class, 'showLogin']);
 $app->router->post('/login', [AuthController::class, 'login']);
 
