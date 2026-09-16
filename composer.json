@@ -1,0 +1,23 @@
+{
+    "name": "crx/crm",
+    "description": "CRX — Agent-Native Enterprise CRM built 100% on Spartan MVC.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spartan\\": "framework/src/",
+            "App\\": "src/"
+        },
+        "files": [
+            "framework/src/helpers.php"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}

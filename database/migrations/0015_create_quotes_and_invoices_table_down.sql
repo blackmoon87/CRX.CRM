@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS quote_items;
+DROP TABLE IF EXISTS quotes;
